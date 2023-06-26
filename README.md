@@ -34,4 +34,4 @@ TMDB API database, animate.css.
          
 # Link 
 
-https://cinema-finder.herokuapp.com/ 
+https://movie-finder-bb.herokuapp.com/
